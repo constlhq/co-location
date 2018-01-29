@@ -15,7 +15,7 @@ from RedisProto import RedisProto
 # the csv file must have: id,type,lng,lat etc. fields
 CSV_FILE_PATH = "test.csv"
 #neighbor distance in km
-DISTANCE_THREOD_KM = 3  
+DISTANCE_THREOD_KM = 300  
 PARTICIPATIONTHREOD  = 0.4
 PATTERN = re.compile(".*?__.*")
 # start from size-2 pattern

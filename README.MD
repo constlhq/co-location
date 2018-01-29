@@ -4,3 +4,5 @@
 1. install python packages  redis, pandas
 2. start redis at localhost:6379
 2. python Colocation.py
+
+thanks to:[https://www.jianshu.com/p/84b655a55bf5](https://www.jianshu.com/p/84b655a55bf5)
